@@ -193,10 +193,21 @@ rewind-runner/
 
 **Prerequisites:** Node.js 18 or later.
 
+## Installation & Setup
+
+### Prerequisites
+
+- Node.js 18+
+- npm
+
+### Run Locally
+
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/rewind-runner.git
-cd rewind-runner
+git clone https://github.com/cressica18/Rewind-Runner.git
+
+# Navigate into the project
+cd Rewind-Runner
 
 # Install dependencies
 npm install
@@ -204,6 +215,8 @@ npm install
 # Start the development server
 npm run dev
 ```
+
+### Production Build
 
 ```bash
 # Build for production
@@ -262,7 +275,7 @@ Developed as a game development assignment submission.
 | **Project** | REWIND RUNNER |
 | **Theme** | Reversal |
 | **Stack** | TypeScript, HTML5 Canvas, Vite |
-| **Repository** | [github.com/your-username/rewind-runner](https://github.com/your-username/rewind-runner) |
+| **Repository** | [github.com/your-username/rewind-runner](github.com/cressica18/Rewind-Runner.git) |
 
 ---
 
