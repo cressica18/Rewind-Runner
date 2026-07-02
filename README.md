@@ -278,5 +278,3 @@ Developed as a game development assignment submission.
 | **Repository** | [github.com/your-username/rewind-runner](github.com/cressica18/Rewind-Runner.git) |
 
 ---
-
-*Built from scratch without external game frameworks or engine dependencies.*
